@@ -1,10 +1,8 @@
 ### 🕵️‍♂️ Ghost - OSINT Tracking Toolkit
-Ghost is a simple yet powerful OSINT (Open Source Intelligence) tool designed for ethical hackers, security researchers, and investigators. Built in Python, it helps you gather information from various public sources through a clean terminal-based interface.
+*Ghost is a simple yet powerful OSINT (Open Source Intelligence) tool designed for ethical hackers, security researchers, and investigators. Built in Python, it helps you gather information from various public sources through a clean terminal-based interface.*
 
 # ⚙️ Features
-pgsql
-Copy
-Edit
+
 [1] IP Tracker            - Trace and gather geolocation data of any IP
 [2] Show Your IP          - Instantly check your public IP address
 [3] Phone Number Tracker  - Lookup information about any phone number
