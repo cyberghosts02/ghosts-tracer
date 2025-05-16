@@ -1,4 +1,4 @@
-### 🕵️‍♂️ Ghost - OSINT Tracking Toolkit
+### 🕵️‍♂️ Ghost - Tracer
 *Ghost is a simple yet powerful OSINT (Open Source Intelligence) tool designed for ethical hackers, security researchers, and investigators. Built in Python, it helps you gather information from various public sources through a clean terminal-based interface.*
 
 # ⚙️ Features
