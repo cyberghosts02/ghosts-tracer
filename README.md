@@ -30,13 +30,14 @@ Internet connection
 Compatible with Kali Linux, Parrot OS, and other Linux distros
 
 # 🚀 Installation
-bash
-Copy
-Edit
 git clone https://github.com/cyberghosts02/ghosts-tracer
 cd ghosts-tracer
 chmod +x ghosts-tracer.py
 python3 ghosts-tracer.py
 ## 🧑‍💻 Author
 X AWAN
+
 A passionate Python & OSINT enthusiast
+
+
+### CYBER GHOSTS 0.2
