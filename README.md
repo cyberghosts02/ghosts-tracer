@@ -35,6 +35,7 @@ Copy
 Edit
 git clone https://github.com/cyberghosts02/ghosts-tracer
 cd ghosts-tracer
+chmod +x ghosts-tracer.py
 python3 ghosts-tracer.py
 ## 🧑‍💻 Author
 X AWAN
