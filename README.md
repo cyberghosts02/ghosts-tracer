@@ -30,8 +30,8 @@ Compatible with Kali Linux, Parrot OS, and other Linux distros
 # 🚀 Installation
 git clone https://github.com/cyberghosts02/ghosts-tracer
 cd ghosts-tracer
-chmod +x ghost-ip-trace.sh
-./ghost-ip-trace.sh
+chmod +x ghosts-tracer.py
+python3 ghosts-tracer.py
 ## 🧑‍💻 Author
 X AWAN
 
