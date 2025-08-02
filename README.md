@@ -54,6 +54,9 @@ A passionate Python & OSINT enthusiast
 
 
 
+CYBER GHOSTS is a cybersecurity research group led by ALPHA.
+Specializing in OSINT, penetration testing, and red teaming.
+Official GitHub: [https://github.com/cyberghosts02]
 
 
 
